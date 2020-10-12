@@ -1,2 +1,2 @@
 # rocketseat-so-10
-Project inspired by the Omnistack 10 rocketseat week, the application was developed with Back End in Node.js, Front End in React.js, NoSQL MongoDB Atlas database.
+Projeto inspirado na Semana Omnistack 10 Rocketseat, a aplicação  foi desenvolvida com Back End em Node.js, Front End em React.js, NoSQL banco de dados MongoDB Atlas. 
