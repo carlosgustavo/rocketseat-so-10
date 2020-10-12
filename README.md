@@ -17,3 +17,57 @@ Project inspired by the Omnistack 10 rocketseat week, application was developed 
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
+                         
+![front-end](https://user-images.githubusercontent.com/53797220/95795214-322d0f00-0cc0-11eb-8c2e-aad6de579e79.gif)
+
+## :rocket: Technologies and Tools
+
+This project was developed with the following technologies:
+
+-  [ReactJS](https://reactjs.org/)
+-  [CSS](https://www.w3schools.com/css/)
+-  [Node.js](https://nodejs.org/en/)
+-  [MongoDB](https://www.mongodb.com/cloud/atlas)
+-  [Insomnia](https://insomnia.rest/)
+-  [MongoDB Compass](https://www.mongodb.com/products/compass)
+
+## :information_source: How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/en/) or higher + [Yarn v1.13](https://yarnpkg.com/) or higher installed on your computer. From your command line:
+
+<h3> Backend (API) </h3>
+
+```bash
+# Clone this repository
+$ git clone https://github.com/carlosgustavo/rocketseat-so-10.git
+
+# Go into the repository
+$ cd rocketseat-so-10/backend
+
+# Install dependencies
+$ yarn install
+
+# Run the app
+$ yarn dev
+```
+
+<h3> Frontend (React) </h3>
+
+```bash
+
+# Go into the repository
+$ cd  react-authentication-user/front-end
+
+# Install dependencies
+$ yarn install
+
+# Run the app
+$ yarn start
+```
+
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/carlosgustavo/rocketseat-so-10/blob/master/LICENSE) for more information.
+
+---
+
+Developed by Carlos Gustavo 👨🏻‍💻️ [Get in touch!](https://www.linkedin.com/in/carlos-gustavo-a71757190/)
