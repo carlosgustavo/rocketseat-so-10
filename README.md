@@ -20,7 +20,7 @@ Project inspired by the Omnistack 10 rocketseat week, application was developed 
                          
 ![front-end](https://user-images.githubusercontent.com/53797220/95795214-322d0f00-0cc0-11eb-8c2e-aad6de579e79.gif)
 
-## :rocket: Technologies and Tools
+## :rocket: Technologies
 
 This project was developed with the following technologies:
 
