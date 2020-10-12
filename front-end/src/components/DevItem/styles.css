@@ -1,0 +1,163 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sora&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=David+Libre&display=swap");
+
+#app {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#app img.img-github {
+  width: 75px;
+  height: 75px;
+  margin: 10px 0px 10px 0px;
+  /* padding: 10px 0 25px 0; */
+}
+
+#app main {
+  padding-top: 20px;
+}
+
+#app main ul {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  list-style: none;
+}
+
+#app main ul li {
+  background: #ffffff;
+  /*  box-shadow: 0 0 14px 0 rgba(230, 216, 216, 0.156); */
+  border: 1px solid #3b3b3f;
+  border-radius: 10px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /*   margin-bottom: 15px; */
+}
+
+#app main ul li header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#app main ul li header img {
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+}
+
+#app main ul li header .user-info {
+  margin-left: 10px;
+}
+
+#app main ul li header .user-info strong {
+  display: block;
+  font-size: 16px;
+  color: #091f63;
+  font-family: "Merriweather Sans", sans-serif;
+}
+
+#app main ul li header .user-info span {
+  font-size: 13px;
+  color: rgb(56, 158, 100);
+  margin-top: 2px;
+  font-family: "Sora", sans-serif;
+}
+
+#app main ul li p {
+  color: #666;
+  font-size: 14px;
+  line-height: 20px;
+  margin: 10px 0px 3px 0;
+}
+#app main ul li div.git-cont {
+  display: flex;
+  align-items: stretch;
+  width: 240px;
+  /* font-family: 'David Libre', serif; */
+}
+#app main ul li div.git-cont img {
+  /* font-size: 100px; */
+  width: 25px;
+  padding-right: 3px;
+}
+#app main ul li div.git-cont p {
+  font-family: "David Libre", serif;
+  color: black;
+}
+#app main ul li a {
+  color: #ecf3ed;
+  font-size: 14px;
+  text-decoration: none;
+  font-family: "Merriweather Sans", sans-serif;
+  padding: 11px 0px 6px 0px;
+}
+
+/* #app main ul li a:hover {
+  color: #5a2ea6;
+} */
+#app main ul li button {
+  display: flex;
+  justify-content: center;
+}
+#app main ul li .button-git {
+  width: 100%;
+  border-radius: 4px;
+  font-size: 23px;
+  background-color: #207dffdb;
+  font-weight: bold;
+  color: #ffffff;
+  cursor: pointer;
+  padding: 4px 0px 4px 0px;
+  border: none;
+  text-align: center;
+  max-width: 200px;
+  transition: all 0.5s;
+}
+
+#app main ul li button .span-git {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+#app main ul li button .span-git:after {
+  content: "\00bb";
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+#app main ul li .button-git:hover span {
+  padding-right: 32px;
+}
+
+#app main ul li .button-git:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+@media (max-width: 1000px) {
+  #app {
+    flex-direction: column;
+  }
+
+  #app main {
+    margin-left: 0;
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 650px) {
+  main ul {
+    grid-template-columns: 1fr;
+  }
+}
