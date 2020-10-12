@@ -7,10 +7,10 @@
 Project inspired by the Omnistack 10 rocketseat week, application was developed with Back End in Node.js, Front End in React.js, NoSQL Database in MongoDB Atlas.
 </h4>
 <p align="center">
-  <img alt="languages" src="https://img.shields.io/github/languages/top/carlosgustavo/react-authentication-user">
-  <img alt="languages" src="https://img.shields.io/github/languages/count/carlosgustavo/react-authentication-user">
-  <img alt="Último commit do GitHub" src="https://img.shields.io/github/last-commit/carlosgustavo/react-authentication-user">
-  <img alt="licence" src="https://img.shields.io/github/license/carlosgustavo/react-authentication-user">
+  <img alt="languages" src="https://img.shields.io/github/languages/top/carlosgustavo/rocketseat-so-10">
+  <img alt="languages" src="https://img.shields.io/github/languages/count/carlosgustavo/rocketseat-so-10">
+  <img alt="Último commit do GitHub" src="https://img.shields.io/github/last-commit/carlosgustavo/rocketseat-so-10">
+  <img alt="licence" src="https://img.shields.io/github/license/carlosgustavo/rocketseat-so-10">
 </p>
 <p align="center">
   <a href="#rocket-technologies"">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
