@@ -1,6 +1,6 @@
 
 <h1 align="center">
-     Rocketseat-so-10
+     Rocketseat Semana Omnistack 10
 </h1>
 
 <h4 align="center">
