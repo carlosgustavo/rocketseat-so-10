@@ -56,7 +56,7 @@ $ yarn dev
 ```bash
 
 # Go into the repository
-$ cd  rocketseat-so-10/front-end
+$ cd rocketseat-so-10/front-end
 
 # Install dependencies
 $ yarn install
