@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-The application proposes to supplement the Github API in the Back End, and to render all the data returned from the API in the components in React.js.
+The purpose of the application is to implement the Github API in the Back End, and to render all data returned from the API in the components in React.js.
 </h4>
 <p align="center">
   <img alt="languages" src="https://img.shields.io/github/languages/top/carlosgustavo/rocketseat-so-10">
