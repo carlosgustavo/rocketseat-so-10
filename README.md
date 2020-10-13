@@ -1,10 +1,10 @@
 
 <h1 align="center">
-     Rocketseat Semana Omnistack 09
+     Rocketseat Semana Omnistack 10
 </h1>
 
 <h4 align="center">
-The project makes it possible to register users, make reservations and obtain a visual response, upload images.
+Project inspired by the Omnistack 10 rocketseat week, application was developed with Back End in Node.js, Front End in React.js, NoSQL Database in MongoDB Atlas.
 </h4>
 <p align="center">
   <img alt="languages" src="https://img.shields.io/github/languages/top/carlosgustavo/rocketseat-so-10">
@@ -39,10 +39,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/carlosgustavo/rocketseat-so-09.git
+$ git clone https://github.com/carlosgustavo/rocketseat-so-10.git
 
 # Go into the repository
-$ cd rocketseat-so-09/backend
+$ cd rocketseat-so-10/backend
 
 # Install dependencies
 $ yarn install
@@ -56,7 +56,7 @@ $ yarn dev
 ```bash
 
 # Go into the repository
-$ cd rocketseat-so-09/frontend
+$ cd rocketseat-so-10/front-end
 
 # Install dependencies
 $ yarn install
@@ -66,7 +66,7 @@ $ yarn start
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/carlosgustavo/rocketseat-so-09/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/carlosgustavo/rocketseat-so-10/blob/master/LICENSE) for more information.
 
 ---
 
