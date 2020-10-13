@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-Project inspired by the Omnistack 10 rocketseat week, application was developed with Back End in Node.js, Front End in React.js, NoSQL Database in MongoDB Atlas.
+A aplicação tem como proposta emplementar a API do Github no Back End, e renderizar todos os dados retornados da API nos componentes em React.js.
 </h4>
 <p align="center">
   <img alt="languages" src="https://img.shields.io/github/languages/top/carlosgustavo/rocketseat-so-10">
