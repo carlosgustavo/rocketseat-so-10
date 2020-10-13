@@ -1,10 +1,10 @@
 
 <h1 align="center">
-     Rocketseat Semana Omnistack 10
+     Rocketseat Semana Omnistack 09
 </h1>
 
 <h4 align="center">
-The project aims to register Github users, with location, technologies. After registering, the Backend will return the main data from the Github API, which will be rendered in the React.js components.
+The project makes it possible to register users, make reservations and obtain a visual response, upload images.
 </h4>
 <p align="center">
   <img alt="languages" src="https://img.shields.io/github/languages/top/carlosgustavo/rocketseat-so-10">
